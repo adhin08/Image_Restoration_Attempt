@@ -34,7 +34,7 @@ To explore how neural networks can restore distorted images after passing throug
 
 ## 📷 Screenshot from Colab Execution
 
-![screenshot](Image_RScreenshot.png)
+![screenshot](Image_Restoration_Screenshot.png)
 
 ---
 
