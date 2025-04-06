@@ -26,7 +26,7 @@ To explore how neural networks can restore distorted images after passing throug
 
 | Distorted Input | Restored Output | Ground Truth |
 |-----------------|------------------|---------------|
-| ![input](./images/input.png) | ![restored](./images/output.png) | ![target](./images/target.png) |
+| ![input](images/input.png) | ![restored](./images/output.png) | ![target](./images/target.png) |
 
 > _Note: Images are illustrative. Actual output can be found below from the notebook run._
 
